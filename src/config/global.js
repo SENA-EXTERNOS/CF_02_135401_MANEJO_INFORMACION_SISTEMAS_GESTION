@@ -98,7 +98,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Software de código abierto',
+      tema: '<i>software</i> de código abierto',
       referencia:
         'Solano, L., et al. (s.f.). <i>Las tecnologías de información como base de la competitividad en las organizaciones.</i> Departamento de Publicaciones Universidad Externado de Colombia. ',
       tipo: 'Libro',
@@ -140,7 +140,7 @@ export default {
     {
       termino: 'Código abierto',
       significado:
-        'es un modelo de trabajo colaborativo en el desarrollo de software, que surgió con el fin de mejorar la propuesta del creador.',
+        'es un modelo de trabajo colaborativo en el desarrollo de <i>software</i>, que surgió con el fin de mejorar la propuesta del creador.',
     },
     {
       termino: '<em>Hardware</em>',
@@ -159,7 +159,7 @@ export default {
     {
       termino: 'Programador',
       significado:
-        'también conocidos como desarrolladores de software, implementa prototipos virtuales para crear programas informáticos para diferentes fines, entre los que se encuentra el comercial. En el caso de los sistemas de gestión, crean programas que permitan hacer seguimiento al funcionamiento interno de la organización.',
+        'también conocidos como desarrolladores de <i>software</i>, implementa prototipos virtuales para crear programas informáticos para diferentes fines, entre los que se encuentra el comercial. En el caso de los sistemas de gestión, crean programas que permitan hacer seguimiento al funcionamiento interno de la organización.',
     },
     {
       termino: 'Sistemas de gestión',
@@ -202,7 +202,7 @@ export default {
     },
     {
       referencia:
-        'Toral, M. Sergio. (2010). <i>Gestión del conocimiento mediante comunidades de práctica virtuales: aplicación a proyectos de software de código abierto</i> (Tesis doctoral, Universidad de Sevilla). ',
+        'Toral, M. Sergio. (2010). <i>Gestión del conocimiento mediante comunidades de práctica virtuales: aplicación a proyectos de <i>software</i> de código abierto</i> (Tesis doctoral, Universidad de Sevilla). ',
       link:
         'https://idus.us.es/bitstream/handle/11441/23800/M_TD-PROV4.pdf?sequence=1',
     },

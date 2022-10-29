@@ -13,15 +13,15 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/19.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El código abierto es un modelo de producción descentralizado que permite que cualquier persona cambie y comparta tecnología, gracias a  su diseño público. El término se originó en el contexto del desarrollo de software para indicar que el software cumple con ciertos criterios para su distribución gratuita. En la actualidad, el término "ruta de código abierto” se refiere a un conjunto más amplio de valores basados en los principios del libre intercambio de información, la creación rápida de prototipos y el desarrollo colaborativo. Para conocer las características del software de código abierto, observe el siguiente recurso:
+            p.mb-0 El código abierto es un modelo de producción descentralizado que permite que cualquier persona cambie y comparta tecnología, gracias a  su diseño público. El término se originó en el contexto del desarrollo de <i>software</i> para indicar que el <i>software</i> cumple con ciertos criterios para su distribución gratuita. En la actualidad, el término "ruta de código abierto” se refiere a un conjunto más amplio de valores basados en los principios del libre intercambio de información, la creación rápida de prototipos y el desarrollo colaborativo. Para conocer las características del <i>software</i> de código abierto, observe el siguiente recurso:
 
-    p(data-aos="fade-down").mb-5 Al hablar sobre las principales características del software de código abierto, se pueden destacar las siguientes:
+    p(data-aos="fade-down").mb-5 Al hablar sobre las principales características del <i>software</i> de código abierto, se pueden destacar las siguientes:
 
     .row.justify-content-center.align-items-start.mb-5           
-      .col-lg-4
+      .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.png', alt='')     
-      .col-lg-8
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .col-lg-8.my-3
+        SlyderF.mb-5.text-center(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/temas/21.svg', style="width: 102px")
             .tarjeta.color-acento-contenido1
@@ -36,7 +36,7 @@
             img(src='@/assets/curso/temas/23.svg', style="width: 102px")
             .tarjeta.color-acento-contenido1
               .p-4
-                p Posibilidad de evitar monopolios de software propietario
+                p Posibilidad de evitar monopolios de <i>software</i> propietario
           .tarjeta-avatar
             img(src='@/assets/curso/temas/24.svg', style="width: 102px")
             .tarjeta.color-acento-contenido1
@@ -51,7 +51,7 @@
         h3.mb-0 Herramientas de #[i software] código abierto 
 
       
-    p(data-aos="fade-down") Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos software desarrollados y distribuidos bajo una licencia que permite que cualquier persona pueda ver el código y acceder libremente, sin restricciones.
+    p(data-aos="fade-down") Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos <i>software</i> desarrollados y distribuidos bajo una licencia que permite que cualquier persona pueda ver el código y acceder libremente, sin restricciones.
 
       
     p(data-aos="fade-down").mb-5 Detrás de este concepto, hay dos movimientos que son: el intercambio de ideas y la colaboración entre los expertos en la evolución de la informática y la tecnología.
