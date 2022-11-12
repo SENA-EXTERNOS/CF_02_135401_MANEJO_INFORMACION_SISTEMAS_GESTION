@@ -69,37 +69,37 @@
                     ul.lista-ul
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 LibreOffice
+                        p.mb-0 <em>LibreOffice</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Gimp
+                        p.mb-0 <em>Gimp</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Mozilla Firefox 
+                        p.mb-0 <em>Mozilla Firefox </em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 WordPress
+                        p.mb-0 <em>WordPress</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Wunderlist
+                        p.mb-0 <em>Wunderlist</em>
                   
                   .col-lg-6
                     ul.lista-ul
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Shotcut
+                        p.mb-0 <em>Shotcut</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 CCleaner
+                        p.mb-0 <em>CCleaner</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Thunderbird
+                        p.mb-0 <em>Thunderbird</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 Audacity
+                        p.mb-0 <em>Audacity</em>
                       li 
                         i.fas.fa-angle-right.v
-                        p.mb-0 PDFCreator  
+                        p.mb-0 <em>PDFCreator  </em>
 
     p(data-aos="fade-down") Cuando se habla de código abierto se debe hacer mención a la línea de comandos, que es una herramienta que permite dar instrucciones al computador, a través de comandos en forma de texto.
 

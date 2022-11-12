@@ -18,7 +18,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Cuando se trabaja con bases de datos, el procesamiento de datos es una etapa fundamental. En este componente formativo se abordarán conceptos utilizados en el reporte de datos, según el sistema de gestión. Por ello, se desarrollarán temas como datos, tipos de datos, jerarquía, almacenamiento, manejo de datos, uso de datos y relación; también se hablará sobre <i>software</i> de código abierto, características, herramientas, comandos, instalaciones, operación, visualización y métricas, seguimiento, paquetes, manejos, modelamiento y algunos de los principales componentes del sistema de información. 
 
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-start.mb-5           
       .col-lg-6
         p(data-aos="fade-down") Con el aprendizaje de estos, estará en capacidad de aportar su conocimiento y eficacia en diferentes sectores productivos y empresariales, para la transformación de estrategias de recolección de la información.         
       .col-lg-6

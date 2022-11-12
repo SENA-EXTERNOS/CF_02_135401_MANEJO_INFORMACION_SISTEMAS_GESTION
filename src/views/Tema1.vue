@@ -88,7 +88,7 @@
 
 
       .tarjeta.color-acento-botones.p-3(x="67.5%" y="99%" numero="")
-        p.mb-3 Son los que ocupan solamente una casilla de memoria; por lo tanto, una variable sencilla se refiere a un exclusivo costo a la vez. Los datos básicos tienen la posibilidad de separarse.
+        p.mb-3 Estos pertenecen a un tipo de datos en particular, que tienen la ventaja de almacenar varios valores al mismo tiempo, dentro de una misma variable.
         h5 Ejemplo de datos estructurados:
         ul.lista-ul
           li 
@@ -105,7 +105,7 @@
 
           li 
             i.fas.fa-angle-right
-            p.mb-0 Formularios web
+            p.mb-0 Formularios <em>web</em>
 
           li 
             i.fas.fa-angle-right
@@ -130,22 +130,22 @@
       .col-lg-8
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-acento-botones--borde.p-4(titulo="Memoria RAM")
-            p RAM, acrónimo de Random Access Memory o Memoria de Acceso Aleatorio. Es la memoria principal de un dispositivo como una computadora, que contiene programas y datos que se almacenan temporalmente o sea que se considera volátil. 
+            p RAM, acrónimo de <em>Random Access Memory</em> o Memoria de Acceso Aleatorio. Es la memoria principal de un dispositivo como una computadora, que contiene programas y datos que se almacenan temporalmente o sea que se considera volátil. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Memoria ROM")
-            p ROM, acrónimo de Read Only Memory o memoria de solo lectura. Es un dispositivo de circuito integrado que permite solo lectura y almacena datos permanentes o sea que no es volátil porque si se apaga el dispositivo, no se elimina la información. 
+            p ROM, acrónimo de <em>Read Only Memory</em> o memoria de solo lectura. Es un dispositivo de circuito integrado que permite solo lectura y almacena datos permanentes o sea que no es volátil porque si se apaga el dispositivo, no se elimina la información. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Casetera de cinta magnética")
             p Es un medio o dispositivo de almacenamiento de información en formato digital, que graba mediante una banda plástica a través de un material magnetizado. Su capacidad de almacenamiento varía según sus características. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Dispositivo digital de cinta magnética (DDS)")
-            p DDS, acrónimo de Digital Data Store, o cinta de almacenamiento de datos digitales. Cinta de almacenamiento de datos digitales que se utiliza para el proceso de información de tipo secuencial y para la elaboración de nómina de grandes empresas. 
+            p DDS, acrónimo de <em>Digital Data Store</em>, o cinta de almacenamiento de datos digitales. Cinta de almacenamiento de datos digitales que se utiliza para el proceso de información de tipo secuencial y para la elaboración de nómina de grandes empresas. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de disco duro portátil")
             p Un dispositivo portátil que permite archivar datos rápida y fácilmente, que se utiliza de forma interna o externa en el dispositivo, con capacidad de almacenamiento eficiente y permite una programación automática para respaldo de archivos. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="CD-ROM")
-            p CD-ROM, acrónimo de Compact Disc Read-Only Memory o Disco Compacto con Memoria de Solo Lectura.
+            p CD-ROM, acrónimo de <em>Compact Disc Read-Only Memory</em> o Disco Compacto con Memoria de Solo Lectura.
             p Tipo de disco compacto, es un elemento óptico que se graba de manera digital y se emplea para el almacenamiento de datos y que sirve para leer CD o discos compactos donde vienen programas, y escuchar música en un dispositivo. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="CD-R/RW")
-            p CD-R/RW, acrónimo de Compact Disc - ReWritable. Es un dispositivo CD en el que se puede borrar y volver a grabar en varias oportunidades. 
+            p CD-R/RW, acrónimo de <em>Compact Disc - ReWritable</em>. Es un dispositivo CD en el que se puede borrar y volver a grabar en varias oportunidades. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Blue Ray")
-            p BD, acrónimo de Blue Ray Disc Es un dispositivo de disco, óptico, empleado para video de alta definición, con gran capacidad de almacenamiento de datos.  
+            p BD, acrónimo de <em>Blue Ray Disc</em> Es un dispositivo de disco, óptico, empleado para video de alta definición, con gran capacidad de almacenamiento de datos.  
           .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de DVD-ROM")
             p Es un disco con capacidad de almacenamiento alta y puede ser utilizado para leer o reproducir datos o información como audio, imágenes, video o texto. Su capacidad de almacenamiento es aproximadamente de 4,7 GB, y sirve para la distribución de <i>software</i>.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad Zip")
@@ -155,7 +155,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Tarjeta de memoria")
             p Memoria no volátil, o sea que conserva los datos, inclusive si hay pérdida de energía eléctrica. Se utiliza para almacenamiento de datos de diferentes clases de computadoras como consolas de video juegos, teléfonos celulares y cámaras de fotos entre otros dispositivos. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento en la nube")
-            p Es un modelo de servicio externo para almacenar datos, a través de un sistema de cómputo, administrado de forma remota, con servidores web que se encuentran en la nube y son operados por un tercero.
+            p Es un modelo de servicio externo para almacenar datos, a través de un sistema de cómputo, administrado de forma remota, con servidores <em>web</em> que se encuentran en la nube y son operados por un tercero.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -246,9 +246,9 @@
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down") En este tema, se introduce un término que cada día es más frecuente: #[i ‘Big data’].
 
-          p(data-aos="fade-down").mb-0 El término #[i ‘Big Data’] proviene originalmente del ámbito de las ciencias de la computación y ha sido típicamente empleado para referirse a sets de datos, cuyo tamaño excede al que pueden manejar el <i>software</i> y hardware estándares; describe un gran volumen de datos disponibles para capturar, almacenar y analizar lo que ayuda a mejorar el desempeño y el posicionamiento de la empresa.
+          p(data-aos="fade-down").mb-0 El término #[i ‘Big Data’] proviene originalmente del ámbito de las ciencias de la computación y ha sido típicamente empleado para referirse a <em>sets</em> de datos, cuyo tamaño excede al que pueden manejar el <i>software</i> y <em>hardware</em> estándares; describe un gran volumen de datos disponibles para capturar, almacenar y analizar lo que ayuda a mejorar el desempeño y el posicionamiento de la empresa.
 
-    p(data-aos="fade-down").mb-5 Al respecto, también es pertinente mencionar que, en un principio, muchos autores tomaron las llamadas “Tres Vs” como características que definen qué es ‘Big Data’. Para identificarlas, se presenta la siguiente infografía:
+    p(data-aos="fade-down").mb-5 Al respecto, también es pertinente mencionar que, en un principio, muchos autores tomaron las llamadas “Tres Vs” como características que definen qué es <em>‘Big Data</em>’. Para identificarlas, se presenta la siguiente infografía:
 
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='')    
 </template>

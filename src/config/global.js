@@ -98,7 +98,7 @@ export default {
   },
   complementario: [
     {
-      tema: '<i>software</i> de código abierto',
+      tema: '<i>Software</i> de código abierto',
       referencia:
         'Solano, L., et al. (s.f.). <i>Las tecnologías de información como base de la competitividad en las organizaciones.</i> Departamento de Publicaciones Universidad Externado de Colombia. ',
       tipo: 'Libro',
