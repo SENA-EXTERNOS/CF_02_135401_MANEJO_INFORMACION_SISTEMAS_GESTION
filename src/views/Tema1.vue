@@ -133,11 +133,11 @@
             p RAM, acrónimo de <em>Random Access Memory</em> o Memoria de Acceso Aleatorio. Es la memoria principal de un dispositivo como una computadora, que contiene programas y datos que se almacenan temporalmente o sea que se considera volátil. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Memoria ROM")
             p ROM, acrónimo de <em>Read Only Memory</em> o memoria de solo lectura. Es un dispositivo de circuito integrado que permite solo lectura y almacena datos permanentes o sea que no es volátil porque si se apaga el dispositivo, no se elimina la información. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Casetera de cinta magnética")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Casetera de<br> cinta magnética")
             p Es un medio o dispositivo de almacenamiento de información en formato digital, que graba mediante una banda plástica a través de un material magnetizado. Su capacidad de almacenamiento varía según sus características. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Dispositivo digital de cinta magnética (DDS)")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Dispositivo digital<br> de cinta magnética<br> (DDS)")
             p DDS, acrónimo de <em>Digital Data Store</em>, o cinta de almacenamiento de datos digitales. Cinta de almacenamiento de datos digitales que se utiliza para el proceso de información de tipo secuencial y para la elaboración de nómina de grandes empresas. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de disco duro portátil")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de disco<br> duro portátil")
             p Un dispositivo portátil que permite archivar datos rápida y fácilmente, que se utiliza de forma interna o externa en el dispositivo, con capacidad de almacenamiento eficiente y permite una programación automática para respaldo de archivos. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="CD-ROM")
             p CD-ROM, acrónimo de <em>Compact Disc Read-Only Memory</em> o Disco Compacto con Memoria de Solo Lectura.
@@ -146,7 +146,7 @@
             p CD-R/RW, acrónimo de <em>Compact Disc - ReWritable</em>. Es un dispositivo CD en el que se puede borrar y volver a grabar en varias oportunidades. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Blue Ray")
             p BD, acrónimo de <em>Blue Ray Disc</em> Es un dispositivo de disco, óptico, empleado para video de alta definición, con gran capacidad de almacenamiento de datos.  
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de DVD-ROM")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de<br> DVD-ROM")
             p Es un disco con capacidad de almacenamiento alta y puede ser utilizado para leer o reproducir datos o información como audio, imágenes, video o texto. Su capacidad de almacenamiento es aproximadamente de 4,7 GB, y sirve para la distribución de <i>software</i>.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad Zip")
             p Dispositivo de almacenamiento de tipo magnético, extraíble o removible, de mediana capacidad con sistema de almacenamiento portátil que se utiliza para transportar archivos de una computadora a otra. Tecnología de almacenamiento de datos, basada en una memoria de alta velocidad que se programa eléctricamente.
@@ -154,7 +154,7 @@
             p Dispositivo de almacenamiento con una memoria de alta velocidad programada eléctricamente; un chip de memoria que brinda la posibilidad de escribir y leer datos en distintas ubicaciones al mismo tiempo. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Tarjeta de memoria")
             p Memoria no volátil, o sea que conserva los datos, inclusive si hay pérdida de energía eléctrica. Se utiliza para almacenamiento de datos de diferentes clases de computadoras como consolas de video juegos, teléfonos celulares y cámaras de fotos entre otros dispositivos. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento en la nube")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Almacenamiento<br> en la nube")
             p Es un modelo de servicio externo para almacenar datos, a través de un sistema de cómputo, administrado de forma remota, con servidores <em>web</em> que se encuentran en la nube y son operados por un tercero.
 
     .row.justify-content-center.align-items-center.mb-5           
