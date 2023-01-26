@@ -10,16 +10,20 @@
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.png', alt='')     
       .col-lg-7.my-3
-        p(data-aos="fade-down") En la actualidad, los sistemas de información son un recurso indispensable para cualquier organización porque a través de este pueden aportar elementos para tomar decisiones que posibiliten alcanzar los objetivos estratégicos.  
-
-    p(data-aos="fade-down").mb-5 Observe el siguiente video para conocer sobre los sistemas de información y de seguimiento:
+        p(data-aos="fade-down") En la actualidad, los sistemas de información son un recurso indispensable para cualquier organización porque, a través de este, pueden aportar elementos para tomar decisiones que posibiliten alcanzar los objetivos estratégicos.
+          br
+          br
+          |Observe el siguiente video para conocer sobre los sistemas de información y de seguimiento:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-down").mb-5 Por otro lado, es importante conocer que el código abierto, también conocido como <em>Open Source</em>, es un programa que se distribuye libremente y puede ser usado y modificado por los usuarios sin ninguna restricción. A continuación, presentamos el desarrollo que ha tenido el <i>software</i> de código abierto a través del tiempo.
+    p(data-aos="fade-down").mb-5 Por otro lado, es importante conocer que el código abierto, también conocido como #[em Open Source], es un programa que se distribuye libremente y puede ser usado y modificado por los usuarios sin ninguna restricción. A continuación, presentamos el desarrollo que ha tenido el #[em software] de código abierto a través del tiempo.
+      br
+      br
+      |A continuación, presentamos el desarrollo que ha tenido el #[em software] de código abierto a través del tiempo:
 
     LineaTiempoE.color-acento-contenido.mb-5
       .row(titulo="1953" subtitulo="")(data-aos="fade-left")
@@ -66,7 +70,7 @@
     .row.justify-content-center.align-items-center  
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.           
+          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.          
 </template>
 
 <script>

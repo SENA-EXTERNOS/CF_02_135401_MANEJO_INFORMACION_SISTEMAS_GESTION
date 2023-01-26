@@ -98,28 +98,29 @@ export default {
   },
   complementario: [
     {
-      tema: '<i>Software</i> de código abierto',
+      tema: 'El software de código abierto y sus características',
       referencia:
-        'Solano, L., et al. (s.f.). <i>Las tecnologías de información como base de la competitividad en las organizaciones.</i> Departamento de Publicaciones Universidad Externado de Colombia. ',
+        'Velázquez, N., et al. (s.f.). <em>Las tecnologías de información como base de la competitividad en las organizaciones.</em> Departamento de Publicaciones Universidad Externado de Colombia. ',
       tipo: 'Libro',
       link:
         'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/82877',
     },
     {
-      tema: 'Herramientas de código abierto y línea de comando',
-      referencia: 'Datadamia. (2021). <i>¿Qué es la línea de comandos?</i> ',
+      tema: 'El software de código abierto y sus características',
+      referencia:
+        'Datadamia. (2021). <em>¿Qué es la línea de comandos? (video).</em> YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=pqbzLgYYjdc',
     },
     {
-      tema: 'Sistema de información',
+      tema: 'Los principales componentes del sistema de información',
       referencia:
         'imesi net. (2016). MME y SOM - 1.1. <i>Componentes de un sistema informático</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eAnize4bCmA',
     },
     {
-      tema: 'Importancia de los sistemas de información.',
+      tema: 'Los principales componentes del sistema de información',
       referencia:
         'Ospino Sumoza, G. R.; y Hamidian Fernández, B. F. (2015). <i>¿Por qué los sistemas de información son esenciales?</i> ',
       tipo: 'Ensayo',
@@ -140,7 +141,7 @@ export default {
     {
       termino: 'Código abierto',
       significado:
-        'es un modelo de trabajo colaborativo en el desarrollo de <i>software</i>, que surgió con el fin de mejorar la propuesta del creador.',
+        'es un modelo de trabajo colaborativo en el desarrollo de <em>software</em>, que surgió con el fin de mejorar la propuesta del creador.',
     },
     {
       termino: '<em>Hardware</em>',
@@ -159,7 +160,7 @@ export default {
     {
       termino: 'Programador',
       significado:
-        'también conocidos como desarrolladores de <i>software</i>, implementa prototipos virtuales para crear programas informáticos para diferentes fines, entre los que se encuentra el comercial. En el caso de los sistemas de gestión, crean programas que permitan hacer seguimiento al funcionamiento interno de la organización.',
+        'también conocidos como desarrolladores de <em>software</em>, implementa prototipos virtuales para crear programas informáticos para diferentes fines, entre los que se encuentra el comercial. En el caso de los sistemas de gestión, crean programas que permitan hacer seguimiento al funcionamiento interno de la organización.',
     },
     {
       termino: 'Sistemas de gestión',
@@ -202,7 +203,7 @@ export default {
     },
     {
       referencia:
-        'Toral, M. Sergio. (2010). <i>Gestión del conocimiento mediante comunidades de práctica virtuales: aplicación a proyectos de <i>software</i> de código abierto</i> (Tesis doctoral, Universidad de Sevilla). ',
+        'Toral, M. S. (2010). <em>Gestión del conocimiento mediante comunidades de práctica virtuales: aplicación a proyectos de software de código abierto</em> (Tesis doctoral, Universidad de Sevilla). ',
       link:
         'https://idus.us.es/bitstream/handle/11441/23800/M_TD-PROV4.pdf?sequence=1',
     },

@@ -11,11 +11,14 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.png', alt='')      
       .col-lg-7
-        p(data-aos="fade-down") Un dato se puede representar en un documento, una información de tipo cualitativa o cuantitativa, de forma numérica, alfabética y logarítmica.
+        p(data-aos="fade-down") Un dato se puede representar en un documento, como una información de tipo cualitativa o cuantitativa, de forma numérica, alfabética y logarítmica.
+          br
+          br
+          |Los datos representan la información que el programador manipula en la elaboración de una solución, en el desarrollo de un logaritmo.
+          br
+          br
+          |Algunos ejemplos de datos se detallan a continuación:
 
-        p(data-aos="fade-down") Los datos representan la información que el programador manipula en la elaboración de una solución en el desarrollo de un logaritmo.
-
-    p(data-aos="fade-down").mb-5 Algunos ejemplos de datos se detallan a continuación:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12.text-center
         .row.justify-content-center.mb-5
@@ -60,7 +63,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Existen diferentes modelos de datos. Esta clasificación hace referencia al tipo de información que se trabaja y la ventaja que tienen de almacenar varios valores al mismo tiempo, dentro de una variable.        
+          p(data-aos="fade-down").mb-0 Se han creado diferentes tipos de datos con el objetivo de ser utilizados por personas, empresas u organizaciones públicas y privadas, para almacenar información de manera rápida y que sean de fácil acceso. Los diferentes tipos de datos pueden ser clasificados según su utilidad y el área de aplicación.          
 
     p(data-aos="fade-down") Se han creado diferentes tipos de datos con el objetivo de ser utilizados por personas, empresas u organizaciones públicas y privadas, para almacenar información de manera rápida y que sean de fácil acceso. Los diferentes tipos de datos pueden ser clasificados según su utilidad y el área de aplicación. En la siguiente infografía podrá identificarlos:
     p(data-aos="fade-down").mb-5 A continuación, se presentan los principales tipos de datos:
@@ -120,9 +123,9 @@
 
     .color-fondo-text.bg-color.mb-4(data-aos="fade-down")
       .color-fondo-text__texto 
-        p Conociendo el concepto de dato y su clasificación, es importante estudiar dos procesos fundamentales: el almacenamiento y el manejo de datos, para recopilar, organizar, distribuir y archivar o conservar la información. Para esto se emplean dispositivos electrónicos habilitados para leer o grabar datos en el soporte de almacenamiento, de forma temporal o permanente. El almacenamiento y el manejo de datos se ha desarrollado bastante desde la era de los sistemas de disco. Todavía hoy se utilizan algunos, pero en la actualidad, todos los datos se conectan a una red y se definen por el <i>software</i> que se maneje. Como se observa en la siguiente pestaña.
+        p Conociendo el concepto de dato y su clasificación, es importante estudiar dos procesos fundamentales: el almacenamiento y el manejo de datos, para recopilar, organizar, distribuir y archivar o conservar la información. Para esto se emplean dispositivos electrónicos habilitados para leer o grabar datos en el soporte de almacenamiento, de forma temporal o permanente. El almacenamiento y el manejo de datos se ha desarrollado bastante desde la era de los sistemas de disco. Todavía hoy se utilizan algunos, pero en la actualidad, todos los datos se conectan a una red y se definen por el #[em software] que se maneje. 
 
-    p(data-aos="fade-down").mb-5 A continuación, se describen algunos tipos de almacenamiento de datos que se han usado y que se utilizan hoy en día.
+    p(data-aos="fade-down").mb-5 A continuación, se describen algunos tipos de almacenamiento de datos que se han empleado y que se utilizan en la actualidad:
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-4
@@ -244,11 +247,11 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down") En este tema, se introduce un término que cada día es más frecuente: #[i ‘Big data’].
+          p(data-aos="fade-down") En este tema, se introduce un término que cada día es más frecuente: #[em Big data.]
 
-          p(data-aos="fade-down").mb-0 El término #[i ‘Big Data’] proviene originalmente del ámbito de las ciencias de la computación y ha sido típicamente empleado para referirse a <em>sets</em> de datos, cuyo tamaño excede al que pueden manejar el <i>software</i> y <em>hardware</em> estándares; describe un gran volumen de datos disponibles para capturar, almacenar y analizar lo que ayuda a mejorar el desempeño y el posicionamiento de la empresa.
+          p(data-aos="fade-down").mb-0 El término #[em Big Data] proviene originalmente del ámbito de las ciencias de la computación y ha sido típicamente empleado para referirse a sets de datos, cuyo tamaño excede al que pueden manejar el #[em software] y #[em hardware] estándares; describe un gran volumen de datos disponibles para capturar, almacenar y analizar, lo que ayuda a mejorar el desempeño y el posicionamiento de la empresa.
 
-    p(data-aos="fade-down").mb-5 Al respecto, también es pertinente mencionar que, en un principio, muchos autores tomaron las llamadas “Tres Vs” como características que definen qué es <em>‘Big Data</em>’. Para identificarlas, se presenta la siguiente infografía:
+    p(data-aos="fade-down").mb-5 Al respecto, también es pertinente mencionar que, en un principio, muchos autores tomaron las llamadas “Tres Vs” como características que definen qué es #[em Big data.]
 
     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='')    
 </template>

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 2
-      h1 El <i>software</i> de código abierto y sus características
+      h1 El #[em software] de código abierto y sus características 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="flip-down")
@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/19.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El código abierto es un modelo de producción descentralizado que permite que cualquier persona cambie y comparta tecnología, gracias a  su diseño público. El término se originó en el contexto del desarrollo de <i>software</i> para indicar que el <i>software</i> cumple con ciertos criterios para su distribución gratuita. En la actualidad, el término "ruta de código abierto” se refiere a un conjunto más amplio de valores basados en los principios del libre intercambio de información, la creación rápida de prototipos y el desarrollo colaborativo. Para conocer las características del <i>software</i> de código abierto, observe el siguiente recurso:
+            p.mb-0 El código abierto es un modelo de producción descentralizado que permite a cualquier persona cambiar y compartir tecnología, gracias a su diseño público. El término se originó en el contexto del desarrollo de software, para indicar que el #[em software] cumple con ciertos criterios para su distribución gratuita. En la actualidad, el término "ruta de código abierto” se refiere a un conjunto más amplio de valores basados en los principios del libre intercambio de información, la creación rápida de prototipos y el desarrollo colaborativo. 
 
     p(data-aos="fade-down").mb-5 Al hablar sobre las principales características del <i>software</i> de código abierto, se pueden destacar las siguientes:
 
@@ -48,10 +48,13 @@
         .list__item__icon
           img(src='@/assets/curso/temas/v.svg', alt='')
       .list__txt
-        h3.mb-0 Herramientas de #[i software] código abierto 
+        h3.mb-0 Herramientas de #[em software] código abierto 
 
       
-    p(data-aos="fade-down") Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos <i>software</i> desarrollados y distribuidos bajo una licencia que permite que cualquier persona pueda ver el código y acceder libremente, sin restricciones.
+    p(data-aos="fade-down") Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos #[em software] desarrollados y distribuidos bajo una licencia que permite a cualquier persona ver el código y acceder libremente, sin restricciones. 
+      br
+      br
+      |Detrás de este concepto hay dos movimientos que son: #[b el intercambio de ideas] y #[b la colaboración entre los expertos] en la evolución de la informática y la tecnología.
 
       
     p(data-aos="fade-down").mb-5 Detrás de este concepto, hay dos movimientos que son: el intercambio de ideas y la colaboración entre los expertos en la evolución de la informática y la tecnología.
@@ -163,12 +166,12 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Herramientas de código abierto y línea de comando
-                  p.mb-0 Para profundizar un poco más en este tema lo invitamos a ver el video dispuesto en el material complementario “Herramientas de código abierto y línea de comando”
+                  h3.mb-1 ¿Qué es la línea de comandos?
+                  p.mb-0 Para profundizar un poco más sobre este tema, lo invitamos a ver el video “¿Qué es la línea de comandos?”
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=pqbzLgYYjdc" target="_blank")
-                    span Ver video
-                    i.fas.fa-play-circle                  
+                    span Descargar
+                    i.fas.fa-download                
 </template>
 
 <script>
