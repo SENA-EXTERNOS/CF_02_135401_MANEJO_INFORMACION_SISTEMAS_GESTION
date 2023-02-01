@@ -15,7 +15,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 El código abierto es un modelo de producción descentralizado que permite a cualquier persona cambiar y compartir tecnología, gracias a su diseño público. El término se originó en el contexto del desarrollo de software, para indicar que el #[em software] cumple con ciertos criterios para su distribución gratuita. En la actualidad, el término "ruta de código abierto” se refiere a un conjunto más amplio de valores basados en los principios del libre intercambio de información, la creación rápida de prototipos y el desarrollo colaborativo. 
 
-    p(data-aos="fade-down").mb-5 Al hablar sobre las principales características del <i>software</i> de código abierto, se pueden destacar las siguientes:
+    p(data-aos="fade-down").mb-5 Entre las principales características del #[em software] de código abierto, se pueden destacar las siguientes:
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-4.my-3
@@ -51,13 +51,12 @@
         h3.mb-0 Herramientas de #[em software] código abierto 
 
       
-    p(data-aos="fade-down") Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos #[em software] desarrollados y distribuidos bajo una licencia que permite a cualquier persona ver el código y acceder libremente, sin restricciones. 
+    p(data-aos="fade-down").mb-5 Evidentemente, es necesario revisar las herramientas de código abierto. Estas corresponden a todos aquellos #[em software] desarrollados y distribuidos bajo una licencia que permite a cualquier persona ver el código y acceder libremente, sin restricciones. 
       br
       br
       |Detrás de este concepto hay dos movimientos que son: #[b el intercambio de ideas] y #[b la colaboración entre los expertos] en la evolución de la informática y la tecnología.
 
       
-    p(data-aos="fade-down").mb-5 Detrás de este concepto, hay dos movimientos que son: el intercambio de ideas y la colaboración entre los expertos en la evolución de la informática y la tecnología.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
@@ -66,7 +65,7 @@
               h4.mb-0 Las herramientas de código abierto representan una ventaja con respecto a otras opciones, ya sean gratuitas o de pago.
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Algunas herramientas básicas de código abierto:
+                p Algunas herramientas básicas de código abierto son:
                 .row.justify-content-center.align-items-center        
                   .col-lg-6
                     ul.lista-ul
@@ -106,7 +105,7 @@
 
     p(data-aos="fade-down") Cuando se habla de código abierto se debe hacer mención a la línea de comandos, que es una herramienta que permite dar instrucciones al computador, a través de comandos en forma de texto.
 
-    p(data-aos="fade-down").mb-5 Una línea de comando se conoce como interfaz gráfica y se utiliza para acceder a servidores, para descargar e instalar aplicaciones y herramientas, y para ejecutar archivos, entre otros.
+    p(data-aos="fade-down").mb-5 Una línea de comando se conoce como interfaz gráfica y se utiliza para acceder a servidores, para descargar e instalar aplicaciones y herramientas y para ejecutar archivos, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
