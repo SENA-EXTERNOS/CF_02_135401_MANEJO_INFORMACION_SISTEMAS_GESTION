@@ -18,7 +18,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/_aKuRFMHKyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down").mb-5 Por otro lado, es importante conocer que el código abierto, también conocido como #[em Open Source], es un programa que se distribuye libremente y puede ser usado y modificado por los usuarios sin ninguna restricción. A continuación, presentamos el desarrollo que ha tenido el #[em software] de código abierto a través del tiempo.
       br
