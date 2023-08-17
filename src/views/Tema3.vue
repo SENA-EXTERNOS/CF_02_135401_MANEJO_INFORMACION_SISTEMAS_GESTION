@@ -55,7 +55,7 @@
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/32.png', alt='')  
         .col-lg-10.mb-4.mb-lg-0.my-3
-          p Stallman ve la necesidad de modificar el código fuente. Se modifica el código fuente de algunos <i>software</i>, para que sean adaptados de acuerdo con la necesidad de los usuarios.
+          p Stallman ve la necesidad de modificar el código fuente. Se modifica el código fuente de algunos <i>softwares</i>, para que sean adaptados de acuerdo con la necesidad de los usuarios.
       .row(titulo="1983" subtitulo="")(data-aos="fade-left")
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')  
