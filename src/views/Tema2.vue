@@ -21,7 +21,7 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.png', alt='')     
       .col-lg-8.my-3
-        SlyderF.mb-5.text-center(columnas="col-lg-6 col-xl-4")
+        SlyderF.mb-5.text-center(columnas="col-lg-6")
           .tarjeta-avatar
             img(src='@/assets/curso/temas/21.svg', style="width: 102px")
             .tarjeta.color-acento-contenido1

@@ -60,12 +60,11 @@
       .list__txt
         h3.mb-0 Tipos de datos y su jerarquía
 
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center  
       .col-lg-10
-        .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-down")
+        .cajon.color-acento-botones.p-4.mb-5(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Se han creado diferentes tipos de datos con el objetivo de ser utilizados por personas, empresas u organizaciones públicas y privadas, para almacenar información de manera rápida y que sean de fácil acceso. Los diferentes tipos de datos pueden ser clasificados según su utilidad y el área de aplicación.          
 
-    p(data-aos="fade-down") Se han creado diferentes tipos de datos con el objetivo de ser utilizados por personas, empresas u organizaciones públicas y privadas, para almacenar información de manera rápida y que sean de fácil acceso. Los diferentes tipos de datos pueden ser clasificados según su utilidad y el área de aplicación. En la siguiente infografía podrá identificarlos:
     p(data-aos="fade-down").mb-5 A continuación, se presentan los principales tipos de datos:
 
     ImagenInfografica.color-acento-botones.mb-5
@@ -139,7 +138,7 @@
           .tarjeta.color-acento-botones--borde.p-4.mb-3(titulo="Casetera de cinta magnética")
             p Es un medio o dispositivo de almacenamiento de información en formato digital, que graba mediante una banda plástica a través de un material magnetizado. Su capacidad de almacenamiento varía según sus características. 
           .tarjeta.color-acento-botones--borde.p-4.mb-3(titulo="Dispositivo digital de cinta magnética (DDS)")
-            p DDS, acrónimo de <em>Digital Data Store</em>, o cinta de almacenamiento de datos digitales. Cinta de almacenamiento de datos digitales que se utiliza para el proceso de información de tipo secuencial y para la elaboración de nómina de grandes empresas. 
+            p DDS, acrónimo de <em>Digital Data Store</em>, o cinta de almacenamiento de datos digitales. Se utiliza para el proceso de información de tipo secuencial y para la elaboración de nómina de grandes empresas. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Unidad de disco duro portátil")
             p Un dispositivo portátil que permite archivar datos rápida y fácilmente, que se utiliza de forma interna o externa en el dispositivo, con capacidad de almacenamiento eficiente y permite una programación automática para respaldo de archivos. 
           .tarjeta.color-acento-botones--borde.p-4.mb-3(titulo="CD-ROM")

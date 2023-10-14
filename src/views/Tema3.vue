@@ -20,7 +20,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/_aKuRFMHKyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-down").mb-5 Por otro lado, es importante conocer que el código abierto, también conocido como #[em Open Source], es un programa que se distribuye libremente y puede ser usado y modificado por los usuarios sin ninguna restricción. A continuación, presentamos el desarrollo que ha tenido el #[em software] de código abierto a través del tiempo.
+    p(data-aos="fade-down").mb-5 Por otro lado, es importante conocer que el código abierto, también conocido como #[em Open Source], es un programa que se distribuye libremente y puede ser usado y modificado por los usuarios sin ninguna restricción.
       br
       br
       |A continuación, presentamos el desarrollo que ha tenido el #[em software] de código abierto a través del tiempo:
@@ -51,16 +51,16 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/31.png', alt='')  
         .col-lg-10.mb-4.mb-lg-0.my-3
           p Sistemas operativos primitivos. Se inicia la creación del <i>software</i> privativo, que es cerrado, no hay acceso al código fuente, solo su creador. Imposible su manipulación por parte del usuario.
-      .row(titulo="1984" subtitulo="")(data-aos="fade-left")
-        .col-lg-2.my-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/32.png', alt='')  
-        .col-lg-10.mb-4.mb-lg-0.my-3
-          p Stallman ve la necesidad de modificar el código fuente. Se modifica el código fuente de algunos <i>softwares</i>, para que sean adaptados de acuerdo con la necesidad de los usuarios.
       .row(titulo="1983" subtitulo="")(data-aos="fade-left")
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')  
         .col-lg-10.mb-4.mb-lg-0.my-3
-          p Creación del proyecto GNU. Richard Stallman creó el sistema operativo completamente libre.
+          p Creación del proyecto GNU. Richard Stallman creó el sistema operativo completamente libre.          
+      .row(titulo="1984" subtitulo="")(data-aos="fade-left")
+        .col-lg-2.my-3
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/32.png', alt='')  
+        .col-lg-10.mb-4.mb-lg-0.my-3
+          p Stallman ve la necesidad de modificar el código fuente. Se modifica el código fuente de algunos <i>software</i>, para que sean adaptados de acuerdo con la necesidad de los usuarios.
       .row(titulo="1985" subtitulo="")(data-aos="fade-left")
         .col-lg-2.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='')  
