@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <filter id="Rectángulo_41488" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_114628" data-name="Grupo 114628" transform="translate(-1096.333 -103)">
+    <g transform="matrix(1, 0, 0, 1, 1096.33, 103)" filter="url(#Rectángulo_41488)">
+      <rect id="Rectángulo_41488-2" data-name="Rectángulo 41488" width="82" height="82" rx="23" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="volumen" transform="translate(1114.333 118)">
+      <circle id="Elipse_6352" data-name="Elipse 6352" cx="23.55" cy="23.55" r="23.55" transform="translate(17.9 8.95)" fill="#f3f3f3"/>
+      <path id="Trazado_162188" data-name="Trazado 162188" d="M41.45,8.95c-.661,0-1.315.029-1.962.082a23.55,23.55,0,0,1,0,46.936c.647.053,1.3.082,1.962.082a23.55,23.55,0,1,0,0-47.1Z" fill="#e4e4e4"/>
+      <path id="Trazado_162189" data-name="Trazado 162189" d="M61.54,20.207,41.45,32.5V8.95A23.534,23.534,0,0,1,61.54,20.207Z" fill="#f78e36"/>
+      <path id="Trazado_162190" data-name="Trazado 162190" d="M41.45,9.279A23.577,23.577,0,0,1,58.609,22l2.931-1.793A23.534,23.534,0,0,0,41.45,8.95Z" fill="#f86f1b"/>
+      <path id="Trazado_162191" data-name="Trazado 162191" d="M65,32.5a23.717,23.717,0,0,1-.17,2.844L41.45,32.5,61.54,20.207A23.431,23.431,0,0,1,65,32.5Z" fill="#29cef6"/>
+      <path id="Trazado_162192" data-name="Trazado 162192" d="M58.609,22a23.448,23.448,0,0,1,2.466,10.5q0,1.2-.119,2.373l3.874.471A23.744,23.744,0,0,0,65,32.5a23.431,23.431,0,0,0-3.46-12.293Z" fill="#22b5ed"/>
+      <path id="Trazado_162193" data-name="Trazado 162193" d="M64.83,35.344a23.379,23.379,0,0,1-1.689,6.34L41.45,32.5Z" fill="#ffd54f"/>
+      <path id="Trazado_162194" data-name="Trazado 162194" d="M59.767,40.256l3.374,1.428a23.372,23.372,0,0,0,1.689-6.34l-3.874-.471a23.421,23.421,0,0,1-1.189,5.383Z" fill="#ffc328"/>
+      <path id="Trazado_162195" data-name="Trazado 162195" d="M36.46,38.251H.2L2.45,31.486a2,2,0,0,1,1.9-1.34H32.341a2,2,0,0,1,1.9,1.34Z" fill="#29cef6"/>
+      <path id="Trazado_162196" data-name="Trazado 162196" d="M34.207,31.486a2,2,0,0,0-1.9-1.34H28.38a2,2,0,0,1,1.9,1.34L32.5,38.251h3.923Z" fill="#22b5ed"/>
+      <path id="Trazado_162197" data-name="Trazado 162197" d="M33.742,52.118H2.877A2.877,2.877,0,0,1,0,49.24V39.3a2.877,2.877,0,0,1,2.877-2.877H33.742A2.877,2.877,0,0,1,36.62,39.3v9.94A2.877,2.877,0,0,1,33.742,52.118Z" fill="#a9dbf5"/>
+      <path id="Trazado_162198" data-name="Trazado 162198" d="M33.742,36.423H29.819A2.877,2.877,0,0,1,32.7,39.3v9.94a2.877,2.877,0,0,1-2.877,2.877h3.923A2.877,2.877,0,0,0,36.62,49.24V39.3A2.877,2.877,0,0,0,33.742,36.423Z" fill="#88c3e0"/>
+      <path id="Trazado_162199" data-name="Trazado 162199" d="M3.923,47.671v-6.8a.523.523,0,0,1,.523-.523H32.173a.523.523,0,0,1,.523.523v6.8a.523.523,0,0,1-.523.523H4.447a.523.523,0,0,1-.523-.523Z" fill="#43809f"/>
+      <path id="Trazado_162200" data-name="Trazado 162200" d="M9.939,44.532A1.962,1.962,0,0,1,7.977,42.57V40.347H11.9V42.57A1.962,1.962,0,0,1,9.939,44.532Z" fill="#f78e36"/>
+      <path id="Trazado_162201" data-name="Trazado 162201" d="M16.479,44.532a1.962,1.962,0,0,1-1.962-1.962V40.347h3.923V42.57A1.962,1.962,0,0,1,16.479,44.532Z" fill="#f78e36"/>
+      <g id="Grupo_110865" data-name="Grupo 110865">
+        <path id="Trazado_162202" data-name="Trazado 162202" d="M37.528,21.665a2.577,2.577,0,0,0-2.2-3.933H33.273a.952.952,0,0,0-.952.952v7.085a.952.952,0,0,0,.952.952h0s1.892-.008,2.413-.008a2.858,2.858,0,0,0,1.837-5.048Zm-2.2-2.029a.678.678,0,1,1,0,1.356l-.752,0h-.354V19.636Zm.359,5.173-1.465,0V22.9h1.465a.955.955,0,0,1,0,1.91Z" fill="#43809f"/>
+        <path id="Trazado_162203" data-name="Trazado 162203" d="M30.3,17.732H26.384a.952.952,0,0,0,0,1.9h1v6.133a.952.952,0,0,0,1.9,0V19.636H30.3a.952.952,0,1,0,0-1.9Z" fill="#43809f"/>
+      </g>
+    </g>
+  </g>
+</svg>
